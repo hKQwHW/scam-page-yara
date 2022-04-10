@@ -1,4 +1,4 @@
-rule BestBillingScope
+rule CitiBankScampage
 {
     // Code from a phishing page created by (or at least stolen by) Telegram group Bank log shop
     strings:
