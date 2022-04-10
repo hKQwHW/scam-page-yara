@@ -5,5 +5,5 @@ rule BestBillingScope
         $a = "<form name=\"partnerLoginForm\" action=\"process/log1.php\" method=\"post\">"
     
     condition:
-        $scam_text
+        $a
 }
