@@ -1,6 +1,6 @@
 rule TechSupportScam1
 {
-    // Code from a PayPal phishing page created by (or at least stolen by) a Telegram group about "spam methods" and other things
+    // https://urlscan.io/result/035cab42-6d85-43c3-8a17-cda1b0172fc5/dom/
     strings:
         $a = "Windows Firewall"
         $b = "PLEASE call us within the next"
