@@ -1,4 +1,4 @@
-rule NflPiracyScam
+rule LitephishDropbox
 {
     // https://github.com/DarkSecsDevelopers/LitePhish/blob/main/websites/dropbox.html
     strings:
