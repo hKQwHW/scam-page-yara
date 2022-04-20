@@ -1,4 +1,4 @@
-rule TechSupportScam1
+rule PrimeActivationScam1
 {
     // http://ziltzwebsol.online/tvmounting/sample1/secondpage.php?phone=%2B1-808-210-3358&status=1
     strings:
